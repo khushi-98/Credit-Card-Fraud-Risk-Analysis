@@ -38,7 +38,7 @@ The dataset contains transactional records and fraud labels. Fields likely inclu
 - Risk Level (Low, Medium, High, Critical)
 - Month of Transaction
 
-> 📌 *Data source:* (Mention your dataset source here, e.g., [Kaggle](https://www.kaggle.com/) or a simulated dataset)
+
 
 ---
 
@@ -59,11 +59,7 @@ The dataset contains transactional records and fraud labels. Fields likely inclu
 
 ---
 
-## 📷 Dashboard Snapshot
 
-![Credit Card Fraud Risk Analysis Dashboard](./05149e8b-efc9-4265-bc0f-1b91540aa57c.png)
-
----
 
 ## 📌 Usage
 
